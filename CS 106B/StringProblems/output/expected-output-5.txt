@@ -1,0 +1,22 @@
+Welcome to CS 106B/X String Problems!
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? [(){}]
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? l
+String to process? {[[Friends, save $$$ with 'Geico'!!]]}
+Returned: "FriendssavewithGeico" (length 20)
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? p
+Number to convert to binary? 43
+43 in binary is: 101011
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? c
+String 1 (haystack)? Marty
+String 2 (needle)  ? art
+Returned: true
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? q
+
+Have a nice day!

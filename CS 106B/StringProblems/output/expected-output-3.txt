@@ -1,0 +1,21 @@
+Welcome to CS 106B/X String Problems!
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? p
+Number to convert to binary? 43
+43 in binary is: 101011
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? p
+Number to convert to binary? 897462
+897462 in binary is: 11011011000110110110
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? p
+Number to convert to binary? -67
+-67 in binary is: -1000011
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? p
+Number to convert to binary? -238
+-238 in binary is: -11101110
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? q
+
+Have a nice day!

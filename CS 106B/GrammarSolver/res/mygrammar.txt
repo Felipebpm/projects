@@ -1,0 +1,10 @@
+<sentence>::=<subject> <verb> <object>
+<subject>::=<prep> <adjective> <noun> |<pronoun> | <prep> <noun>
+<verb>::=codes|writes|studies|thinks
+<object>::=<adverb>|<prep> <onoun>
+<onoun>::=book|app|chair
+<adverb>::=very well|weirdly
+<prep>::=the|a|an
+<adjective>::=intelligent|intellectual|lazy|hardworking|mindful
+<pronoun>::=he|she
+<noun>::=doctor|broker|man|dog|cow|judge|coder

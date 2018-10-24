@@ -1,0 +1,65 @@
+Welcome to CS 106B/X String Problems!
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? ()
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? []
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? {}
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? <>
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check?
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? [(){}]
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? [()[]{}(<>])
+No, that string is not balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? [[[]]]
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? [[[(())]]]{}{{<[[]]>}}()
+Yes, that string is balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? [[]][][[[]]
+No, that string is not balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? {{}{]}[
+No, that string is not balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? {{[[}}]]
+No, that string is not balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? {]
+No, that string is not balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? (()))
+No, that string is not balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? i
+String to check? >><<
+No, that string is not balanced.
+
+l)ettersOnly i)sBalanced p)rintBinary c)ontains q)uit? q
+
+Have a nice day!
